@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>guru.springframework</groupId>
+    <groupId>guru.springframework.json</groupId>
     <artifactId>mb2g-spring-boot-multimodule-json</artifactId>
     <version>${revision}</version>
     <name>udemy-maven-beginner-to-guru-spring-boot-multimodule</name>

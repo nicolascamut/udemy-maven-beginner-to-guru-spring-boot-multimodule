@@ -1,4 +1,4 @@
-package guru.springframework.mb2gspringbootmultimodulejson;
+package guru.springframework.json.springbootmmjson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
