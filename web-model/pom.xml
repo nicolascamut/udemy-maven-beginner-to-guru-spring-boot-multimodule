@@ -6,7 +6,7 @@
     <parent>
         <groupId>guru.springframework.json</groupId>
         <artifactId>mb2g-spring-boot-multimodule-json</artifactId>
-        <version>${revision}</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>web-model</artifactId>
